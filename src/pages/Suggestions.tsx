@@ -10,7 +10,8 @@ import {
   SlidersHorizontal,
   GridIcon,
   ListIcon,
-  MessageSquarePlus
+  MessageSquarePlus,
+  Lightbulb
 } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import {
